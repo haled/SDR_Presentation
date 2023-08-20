@@ -1,0 +1,23 @@
+# Tag name          ;  color
+CB                  ; #c0c0c0
+Broadcast FM        ; #c0c0c0
+Weather             ; #c0c0c0
+70cm                ; #c0c0c0
+Airband             ; #c0c0c0
+NFM                 ; #c0c0c0
+Ham                 ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+    27165000; Ch. 17                   ; AM                  ;      10000; CB
+    27185000; Ch. 19                   ; AM                  ;      10000; CB
+    94700000; KSHE95                   ; WFM (stereo)        ;     160000; Broadcast FM
+   106500000; Arch                     ; WFM (stereo)        ;     160000; Broadcast FM
+   132125000; Lambert Approach         ; AM                  ;      10000; Airband
+   132475000; Lambert Tower            ; AM                  ;      10000; Airband
+   133150000; Air Traffic              ; AM                  ;      10000; Airband
+   144390000; APRS                     ; Narrow FM           ;      10000; NFM,Ham
+   145330000; KO0A                     ; Narrow FM           ;      10000; NFM,Ham
+   146520000; 2m Calling               ; Narrow FM           ;      10000; NFM,Ham
+   154325000; North County Dispatch    ; Narrow FM           ;      10000; NFM
+   162550000; NOAA                     ; Narrow FM           ;      10000; Weather,NFM
+   437800000; ISS Downlink             ; Narrow FM           ;      10000; Ham,70cm
